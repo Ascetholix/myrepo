@@ -1,0 +1,15 @@
+F:\c_sharp\Examples_test\ex001\bin\Debug\net6.0\ex001.exe
+F:\c_sharp\Examples_test\ex001\bin\Debug\net6.0\ex001.deps.json
+F:\c_sharp\Examples_test\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+F:\c_sharp\Examples_test\ex001\bin\Debug\net6.0\ex001.dll
+F:\c_sharp\Examples_test\ex001\bin\Debug\net6.0\ex001.pdb
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.dll
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\refint\ex001.dll
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.pdb
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+F:\c_sharp\Examples_test\ex001\obj\Debug\net6.0\ref\ex001.dll
