@@ -1,0 +1,15 @@
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.csproj.AssemblyReference.cache
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.AssemblyInfoInputs.cache
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.AssemblyInfo.cs
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.csproj.CoreCompileInputs.cache
+F:\c_sharp\Examples_test\ex004_div\bin\Debug\net6.0\ex004_div.exe
+F:\c_sharp\Examples_test\ex004_div\bin\Debug\net6.0\ex004_div.deps.json
+F:\c_sharp\Examples_test\ex004_div\bin\Debug\net6.0\ex004_div.runtimeconfig.json
+F:\c_sharp\Examples_test\ex004_div\bin\Debug\net6.0\ex004_div.dll
+F:\c_sharp\Examples_test\ex004_div\bin\Debug\net6.0\ex004_div.pdb
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.dll
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\refint\ex004_div.dll
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.pdb
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ex004_div.genruntimeconfig.cache
+F:\c_sharp\Examples_test\ex004_div\obj\Debug\net6.0\ref\ex004_div.dll
