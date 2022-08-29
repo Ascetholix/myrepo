@@ -1,0 +1,15 @@
+F:\c_sharp\Examples_test\ex007_magic\bin\Debug\net6.0\ex007_magic.exe
+F:\c_sharp\Examples_test\ex007_magic\bin\Debug\net6.0\ex007_magic.deps.json
+F:\c_sharp\Examples_test\ex007_magic\bin\Debug\net6.0\ex007_magic.runtimeconfig.json
+F:\c_sharp\Examples_test\ex007_magic\bin\Debug\net6.0\ex007_magic.dll
+F:\c_sharp\Examples_test\ex007_magic\bin\Debug\net6.0\ex007_magic.pdb
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.csproj.AssemblyReference.cache
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.AssemblyInfoInputs.cache
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.AssemblyInfo.cs
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.csproj.CoreCompileInputs.cache
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.dll
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\refint\ex007_magic.dll
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.pdb
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ex007_magic.genruntimeconfig.cache
+F:\c_sharp\Examples_test\ex007_magic\obj\Debug\net6.0\ref\ex007_magic.dll
