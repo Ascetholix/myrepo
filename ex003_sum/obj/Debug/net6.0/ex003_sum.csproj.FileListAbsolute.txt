@@ -1,0 +1,15 @@
+F:\c_sharp\Examples_test\ex003_sum\bin\Debug\net6.0\ex003_sum.exe
+F:\c_sharp\Examples_test\ex003_sum\bin\Debug\net6.0\ex003_sum.deps.json
+F:\c_sharp\Examples_test\ex003_sum\bin\Debug\net6.0\ex003_sum.runtimeconfig.json
+F:\c_sharp\Examples_test\ex003_sum\bin\Debug\net6.0\ex003_sum.dll
+F:\c_sharp\Examples_test\ex003_sum\bin\Debug\net6.0\ex003_sum.pdb
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.csproj.AssemblyReference.cache
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.AssemblyInfoInputs.cache
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.AssemblyInfo.cs
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.csproj.CoreCompileInputs.cache
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.dll
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\refint\ex003_sum.dll
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.pdb
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ex003_sum.genruntimeconfig.cache
+F:\c_sharp\Examples_test\ex003_sum\obj\Debug\net6.0\ref\ex003_sum.dll
