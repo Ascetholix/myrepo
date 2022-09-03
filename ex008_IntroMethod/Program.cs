@@ -1,4 +1,5 @@
-﻿
+﻿// Функция (Метод с возвратом)
+
 int Max(int ar1, int ar2, int ar3)
 {
     int result = ar1;
@@ -19,7 +20,7 @@ int a3 = 11;
 int b3 = 21;
 int c3 = 15;
 
-//int max1 = Max(a1, b1, c1);
+//int max1 = Max(a1, b1, c1);  Можно в таком ввиде писат
 //int max2 = Max(a1, b2, c2);
 //int max3 = Max(a3, b3, c3);
 
