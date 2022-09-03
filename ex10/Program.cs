@@ -18,7 +18,6 @@ void printArray(int[] argArr)
         Console.WriteLine(argArr[i]);
         i++;
     }
-
 }
 
 int[] array = new int[10];

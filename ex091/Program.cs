@@ -9,14 +9,14 @@ int Max(int ar1, int ar2, int ar3)
     return result;
 }
 
-int[] array = {1,2,3,4,5,16,7,8,9};
+int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
-array[0]=12;
-Console.WriteLine(array[0]);
+array[0] = 12;
 
-int result = Max(
-    Max(array[0],array[1],array[2]),
-    Max(array[3],array[4],array[5]),
-    Max(array[6],array[7],array[8])
+int max = Max(
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8])
 );
-Console.WriteLine($"{result} Сумма элементов массива");
+Console.WriteLine($"Земена 0 индескса на: {array[0]}");
+Console.WriteLine($"Максимальный элемент массива: {max}");
