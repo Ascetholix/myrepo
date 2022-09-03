@@ -1,0 +1,15 @@
+F:\c_sharp\Examples_test\ex091\bin\Debug\net6.0\ex091.exe
+F:\c_sharp\Examples_test\ex091\bin\Debug\net6.0\ex091.deps.json
+F:\c_sharp\Examples_test\ex091\bin\Debug\net6.0\ex091.runtimeconfig.json
+F:\c_sharp\Examples_test\ex091\bin\Debug\net6.0\ex091.dll
+F:\c_sharp\Examples_test\ex091\bin\Debug\net6.0\ex091.pdb
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.csproj.AssemblyReference.cache
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.AssemblyInfoInputs.cache
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.AssemblyInfo.cs
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.csproj.CoreCompileInputs.cache
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.dll
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\refint\ex091.dll
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.pdb
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ex091.genruntimeconfig.cache
+F:\c_sharp\Examples_test\ex091\obj\Debug\net6.0\ref\ex091.dll
